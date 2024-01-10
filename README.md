@@ -1,2 +1,2 @@
 # Snake Game
-nest step : add difficulty, progressively increase speed, add name
+next step : add difficulty, progressively increase speed, add name
